@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="LEARNING_PATH.md" />
+    <File Path="PACKAGE_CONTENTS.md" />
+    <File Path="QUICK_START_TESTING.md" />
+    <File Path="START_HERE.md" />
+    <File Path="STUDENT_TESTING_GUIDE.md" />
+  </Folder>
+  <Project Path="WebAPI_ModNunit/WebAPI_ModNunit.csproj" />
+</Solution>

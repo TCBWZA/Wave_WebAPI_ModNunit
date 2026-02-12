@@ -1,0 +1,147 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# ReSharper is a .NET coding add-in
+.idea/
+*.sln.iml
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio 2019 16.11+
+.vs/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+.nuget/
+
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.csx
+*.azurePubxml
+*.publishsettings
+PublishScripts/
+*.azurePubxml
+
+# NuGet Package Restore
+.nuget/NuGet.Config
+.nuget/NuGet.exe
+.nuget/NuGet.targets
+
+# dotnet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+*.edmx.diagram
+
+# Rider
+*.sln.iml
+
+# Exceptions to above rules
+!.nuget/NuGet.Config
+!.nuget/NuGet.exe
+!.nuget/NuGet.targets
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Test Results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+# Code coverage
+opencover/
+
+# VS Code settings
+launch.json
+tasks.json
+
+# Environment files
+.env
+.env.local
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS-specific
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build outputs
+bin/
+obj/
+publish/
+
+# Local db files
+*.db
+*.sqlite
+*.sqlite3
+appsettings.Development.json
+appsettings.Local.json

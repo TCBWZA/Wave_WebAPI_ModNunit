@@ -1,0 +1,6 @@
+@WebAPI_ModNunit_HostAddress = http://localhost:5267
+
+GET {{WebAPI_ModNunit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

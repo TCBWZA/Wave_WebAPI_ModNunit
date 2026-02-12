@@ -1,0 +1,16 @@
+# Project-specific build outputs
+bin/
+obj/
+publish/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.user
+*.userosscache
+
+# VS Code
+.vscode/
+.vscode-test/
