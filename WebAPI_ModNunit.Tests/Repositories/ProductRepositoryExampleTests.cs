@@ -150,7 +150,7 @@ namespace WebAPI_ModNunit.Tests.Repositories
 
             // ASSERT
             Assert.That(results, Has.Count.EqualTo(2), "Should find 2 widgets");
-            Assert.That(results, Does.All.Matches<Product>(p => p.Name.Contains("Widget")));
+            Assert.That(results, Has.All.Matches<Product>(p => p.Name.Contains("Widget")));
         }
 
         // ==================== FAILURE SCENARIOS ====================
