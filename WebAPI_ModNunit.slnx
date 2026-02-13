@@ -6,5 +6,6 @@
     <File Path="START_HERE.md" />
     <File Path="STUDENT_TESTING_GUIDE.md" />
   </Folder>
+  <Project Path="WebAPI_ModNunit.Tests/WebAPI_ModNunit.Tests.csproj" />
   <Project Path="WebAPI_ModNunit/WebAPI_ModNunit.csproj" />
 </Solution>
